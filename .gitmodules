@@ -1,0 +1,3 @@
+[submodule "Plugins/MSF"]
+	path = Plugins/MSF
+	url = https://github.com/guillemalqueza/Multiplayer-Social-Framework.git
